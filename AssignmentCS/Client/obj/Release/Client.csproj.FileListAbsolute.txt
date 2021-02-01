@@ -1,0 +1,20 @@
+C:\Users\michal\Desktop\Coursework - Computers with Electronics\3rd year\ce303 Advanced Programming\Assignment\AssignmentCS\Client\obj\Release\Client.Form1.resources
+C:\Users\michal\Desktop\Coursework - Computers with Electronics\3rd year\ce303 Advanced Programming\Assignment\AssignmentCS\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\michal\Desktop\Coursework - Computers with Electronics\3rd year\ce303 Advanced Programming\Assignment\AssignmentCS\Client\obj\Release\Client.csproj.GenerateResource.cache
+C:\Users\michal\Desktop\Coursework - Computers with Electronics\3rd year\ce303 Advanced Programming\Assignment\AssignmentCS\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+C:\Users\michal\Desktop\Coursework - Computers with Electronics\3rd year\ce303 Advanced Programming\Assignment\AssignmentCS\Client\bin\Release\Client.exe.config
+C:\Users\michal\Desktop\Coursework - Computers with Electronics\3rd year\ce303 Advanced Programming\Assignment\AssignmentCS\Client\bin\Release\Client.exe
+C:\Users\michal\Desktop\Coursework - Computers with Electronics\3rd year\ce303 Advanced Programming\Assignment\AssignmentCS\Client\bin\Release\Client.pdb
+C:\Users\michal\Desktop\Coursework - Computers with Electronics\3rd year\ce303 Advanced Programming\Assignment\AssignmentCS\Client\obj\Release\Client.exe
+C:\Users\michal\Desktop\Coursework - Computers with Electronics\3rd year\ce303 Advanced Programming\Assignment\AssignmentCS\Client\obj\Release\Client.pdb
+C:\Users\michal\Desktop\Coursework - Computers with Electronics\3rd year\ce303 Advanced Programming\Assignment\AssignmentCS\Client\obj\Release\Client.csprojAssemblyReference.cache
+C:\Users\michal\Desktop\coursework\3\ce303 adv_prog\Assignment\AssignmentCS\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\michal\Desktop\coursework\3\ce303 adv_prog\Assignment\AssignmentCS\Client\obj\Release\Client.csproj.GenerateResource.cache
+C:\Users\michal\Desktop\coursework\3\ce303 adv_prog\Assignment\AssignmentCS\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+C:\Users\michal\Desktop\coursework\3\ce303 adv_prog\Assignment\AssignmentCS\Client\obj\Release\Client.exe
+C:\Users\michal\Desktop\coursework\3\ce303 adv_prog\Assignment\AssignmentCS\Client\obj\Release\Client.pdb
+C:\Users\michal\Desktop\coursework\3\ce303 adv_prog\Assignment\AssignmentCS\Client\bin\Release\Client.exe.config
+C:\Users\michal\Desktop\coursework\3\ce303 adv_prog\Assignment\AssignmentCS\Client\bin\Release\Client.exe
+C:\Users\michal\Desktop\coursework\3\ce303 adv_prog\Assignment\AssignmentCS\Client\bin\Release\Client.pdb
+C:\Users\michal\Desktop\coursework\3\ce303 adv_prog\Assignment\AssignmentCS\Client\obj\Release\ClientNamespace.ClientForm.resources
+C:\Users\michal\Desktop\coursework\3\ce303 adv_prog\Assignment\AssignmentCS\Client\obj\Release\Client.csprojAssemblyReference.cache

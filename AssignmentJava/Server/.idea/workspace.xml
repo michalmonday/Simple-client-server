@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="122d7dae-487f-4d75-a844-eff29c6cfda8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k8oO3d7DY5tWWEqEHdKTTj48KR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../alternatives/ce203 Application programming/2/Examples/Lecture 2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="test" />
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\michal\Desktop\coursework\3\ce303 adv_prog\Assignment\AssignmentJava\Server\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Server">
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="main.ServerForm" />
+      <module name="Server" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test in Server" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Server" />
+      <item itemvalue="JUnit.test in Server" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Server" />
+        <item itemvalue="JUnit.test in Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="122d7dae-487f-4d75-a844-eff29c6cfda8" name="Default Changelist" comment="" />
+      <created>1605091543982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605091543982</updated>
+      <workItem from="1605091551217" duration="14201000" />
+      <workItem from="1605139856243" duration="17670000" />
+      <workItem from="1605269866356" duration="30768000" />
+      <workItem from="1605896980728" duration="2677000" />
+      <workItem from="1606159143936" duration="53000" />
+      <workItem from="1606174878032" duration="194000" />
+      <workItem from="1606438523557" duration="5040000" />
+      <workItem from="1606770886457" duration="433000" />
+      <workItem from="1606771368656" duration="17000" />
+      <workItem from="1606771432208" duration="3000" />
+      <workItem from="1606823703822" duration="167000" />
+      <workItem from="1606954345162" duration="1063000" />
+      <workItem from="1607509761238" duration="2813000" />
+      <workItem from="1607726846024" duration="105000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Project_Structure" timestamp="1606439569435">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728/-1600.0.1600.860@0.0.1366.728" timestamp="1606439569435" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607510304073">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1600.0.1600.860@0.0.1366.728" timestamp="1607510304073" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1605143880216" />
+    <state x="413" y="124" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1605380777928">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="124" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728/-1600.0.1600.860@0.0.1366.728" timestamp="1605380777928" />
+    <state x="513" y="74" width="810" height="578" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1606439568878">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="513" y="74" width="810" height="578" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1366.728/-1600.0.1600.860@0.0.1366.728" timestamp="1606439568878" />
+    <state x="413" y="118" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1606438754219">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="118" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1366.728/-1600.0.1600.860@0.0.1366.728" timestamp="1606438754219" />
+    <state x="-1144" y="124" key="FileChooserDialogImpl" timestamp="1607726949619">
+      <screen x="-1600" y="0" width="1600" height="860" />
+    </state>
+    <state x="-1144" y="124" key="FileChooserDialogImpl/0.0.1366.728/-1600.0.1600.860@-1600.0.1600.860" timestamp="1607726949619" />
+    <state x="389" y="105" key="FileChooserDialogImpl/0.0.1366.728/-1600.0.1600.860@0.0.1366.728" timestamp="1606438749495" />
+    <state width="1306" height="179" key="GridCell.Tab.0.bottom" timestamp="1607541933410">
+      <screen x="-1600" y="0" width="1600" height="860" />
+    </state>
+    <state width="1306" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/-1600.0.1600.860@-1600.0.1600.860" timestamp="1607541933410" />
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728/-1600.0.1600.860@0.0.1366.728" timestamp="1606955602539" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606480936393" />
+    <state width="1306" height="179" key="GridCell.Tab.0.center" timestamp="1607541933410">
+      <screen x="-1600" y="0" width="1600" height="860" />
+    </state>
+    <state width="1306" height="179" key="GridCell.Tab.0.center/0.0.1366.728/-1600.0.1600.860@-1600.0.1600.860" timestamp="1607541933410" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728/-1600.0.1600.860@0.0.1366.728" timestamp="1606955602539" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606480936392" />
+    <state width="1306" height="179" key="GridCell.Tab.0.left" timestamp="1607541933410">
+      <screen x="-1600" y="0" width="1600" height="860" />
+    </state>
+    <state width="1306" height="179" key="GridCell.Tab.0.left/0.0.1366.728/-1600.0.1600.860@-1600.0.1600.860" timestamp="1607541933410" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728/-1600.0.1600.860@0.0.1366.728" timestamp="1606955602539" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606480936392" />
+    <state width="1306" height="179" key="GridCell.Tab.0.right" timestamp="1607541933410">
+      <screen x="-1600" y="0" width="1600" height="860" />
+    </state>
+    <state width="1306" height="179" key="GridCell.Tab.0.right/0.0.1366.728/-1600.0.1600.860@-1600.0.1600.860" timestamp="1607541933410" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728/-1600.0.1600.860@0.0.1366.728" timestamp="1606955602539" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606480936393" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1606955602540">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728/-1600.0.1600.860@0.0.1366.728" timestamp="1606955602540" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1606955602539">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728/-1600.0.1600.860@0.0.1366.728" timestamp="1606955602539" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1606955602539">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728/-1600.0.1600.860@0.0.1366.728" timestamp="1606955602539" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1606955602540">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728/-1600.0.1600.860@0.0.1366.728" timestamp="1606955602540" />
+    <state x="-1156" y="222" key="com.intellij.ide.util.TipDialog" timestamp="1607726852917">
+      <screen x="-1600" y="0" width="1600" height="860" />
+    </state>
+    <state x="-1156" y="222" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1600.0.1600.860@-1600.0.1600.860" timestamp="1607726852917" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1600.0.1600.860@0.0.1366.728" timestamp="1606954377971" />
+    <state x="388" y="257" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1605380794911">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="388" y="257" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728/-1600.0.1600.860@0.0.1366.728" timestamp="1605380794911" />
+    <state x="447" y="67" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1605436544814">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="447" y="67" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728/-1600.0.1600.860@0.0.1366.728" timestamp="1605436544814" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Server$MarketTest.ic" NAME="MarketTest Coverage Results" MODIFIED="1605433921100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+  </component>
+</project>

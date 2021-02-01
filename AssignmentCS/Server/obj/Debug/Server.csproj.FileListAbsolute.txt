@@ -1,0 +1,18 @@
+C:\Users\michal\Desktop\Coursework - Computers with Electronics\3rd year\ce303 Advanced Programming\Assignment\AssignmentCS\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\michal\Desktop\Coursework - Computers with Electronics\3rd year\ce303 Advanced Programming\Assignment\AssignmentCS\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\michal\Desktop\Coursework - Computers with Electronics\3rd year\ce303 Advanced Programming\Assignment\AssignmentCS\Server\bin\Debug\Server.exe.config
+C:\Users\michal\Desktop\Coursework - Computers with Electronics\3rd year\ce303 Advanced Programming\Assignment\AssignmentCS\Server\bin\Debug\Server.exe
+C:\Users\michal\Desktop\Coursework - Computers with Electronics\3rd year\ce303 Advanced Programming\Assignment\AssignmentCS\Server\bin\Debug\Server.pdb
+C:\Users\michal\Desktop\Coursework - Computers with Electronics\3rd year\ce303 Advanced Programming\Assignment\AssignmentCS\Server\obj\Debug\Server.exe
+C:\Users\michal\Desktop\Coursework - Computers with Electronics\3rd year\ce303 Advanced Programming\Assignment\AssignmentCS\Server\obj\Debug\Server.pdb
+C:\Users\michal\Desktop\Coursework - Computers with Electronics\3rd year\ce303 Advanced Programming\Assignment\AssignmentCS\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\michal\Desktop\Coursework - Computers with Electronics\3rd year\ce303 Advanced Programming\Assignment\AssignmentCS\Server\obj\Debug\Server.ServerForm.resources
+C:\Users\michal\Desktop\coursework\3\ce303 adv_prog\Assignment\AssignmentCS\Server\bin\Debug\Server.exe.config
+C:\Users\michal\Desktop\coursework\3\ce303 adv_prog\Assignment\AssignmentCS\Server\bin\Debug\Server.exe
+C:\Users\michal\Desktop\coursework\3\ce303 adv_prog\Assignment\AssignmentCS\Server\bin\Debug\Server.pdb
+C:\Users\michal\Desktop\coursework\3\ce303 adv_prog\Assignment\AssignmentCS\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\michal\Desktop\coursework\3\ce303 adv_prog\Assignment\AssignmentCS\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\michal\Desktop\coursework\3\ce303 adv_prog\Assignment\AssignmentCS\Server\obj\Debug\Server.exe
+C:\Users\michal\Desktop\coursework\3\ce303 adv_prog\Assignment\AssignmentCS\Server\obj\Debug\Server.pdb
+C:\Users\michal\Desktop\coursework\3\ce303 adv_prog\Assignment\AssignmentCS\Server\obj\Debug\ServerNamespace.ServerForm.resources
+C:\Users\michal\Desktop\coursework\3\ce303 adv_prog\Assignment\AssignmentCS\Server\obj\Debug\Server.csprojAssemblyReference.cache

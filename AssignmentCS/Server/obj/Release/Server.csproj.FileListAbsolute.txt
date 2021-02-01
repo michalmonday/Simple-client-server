@@ -1,0 +1,18 @@
+C:\Users\michal\Desktop\Coursework - Computers with Electronics\3rd year\ce303 Advanced Programming\Assignment\AssignmentCS\Server\bin\Release\Server.exe.config
+C:\Users\michal\Desktop\Coursework - Computers with Electronics\3rd year\ce303 Advanced Programming\Assignment\AssignmentCS\Server\bin\Release\Server.exe
+C:\Users\michal\Desktop\Coursework - Computers with Electronics\3rd year\ce303 Advanced Programming\Assignment\AssignmentCS\Server\bin\Release\Server.pdb
+C:\Users\michal\Desktop\Coursework - Computers with Electronics\3rd year\ce303 Advanced Programming\Assignment\AssignmentCS\Server\obj\Release\Server.csprojAssemblyReference.cache
+C:\Users\michal\Desktop\Coursework - Computers with Electronics\3rd year\ce303 Advanced Programming\Assignment\AssignmentCS\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+C:\Users\michal\Desktop\Coursework - Computers with Electronics\3rd year\ce303 Advanced Programming\Assignment\AssignmentCS\Server\obj\Release\Server.exe
+C:\Users\michal\Desktop\Coursework - Computers with Electronics\3rd year\ce303 Advanced Programming\Assignment\AssignmentCS\Server\obj\Release\Server.pdb
+C:\Users\michal\Desktop\Coursework - Computers with Electronics\3rd year\ce303 Advanced Programming\Assignment\AssignmentCS\Server\obj\Release\Server.csproj.GenerateResource.cache
+C:\Users\michal\Desktop\Coursework - Computers with Electronics\3rd year\ce303 Advanced Programming\Assignment\AssignmentCS\Server\obj\Release\Server.ServerForm.resources
+C:\Users\michal\Desktop\coursework\3\ce303 adv_prog\Assignment\AssignmentCS\Server\bin\Release\Server.exe.config
+C:\Users\michal\Desktop\coursework\3\ce303 adv_prog\Assignment\AssignmentCS\Server\bin\Release\Server.exe
+C:\Users\michal\Desktop\coursework\3\ce303 adv_prog\Assignment\AssignmentCS\Server\bin\Release\Server.pdb
+C:\Users\michal\Desktop\coursework\3\ce303 adv_prog\Assignment\AssignmentCS\Server\obj\Release\Server.csproj.GenerateResource.cache
+C:\Users\michal\Desktop\coursework\3\ce303 adv_prog\Assignment\AssignmentCS\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+C:\Users\michal\Desktop\coursework\3\ce303 adv_prog\Assignment\AssignmentCS\Server\obj\Release\Server.exe
+C:\Users\michal\Desktop\coursework\3\ce303 adv_prog\Assignment\AssignmentCS\Server\obj\Release\Server.pdb
+C:\Users\michal\Desktop\coursework\3\ce303 adv_prog\Assignment\AssignmentCS\Server\obj\Release\ServerNamespace.ServerForm.resources
+C:\Users\michal\Desktop\coursework\3\ce303 adv_prog\Assignment\AssignmentCS\Server\obj\Release\Server.csprojAssemblyReference.cache

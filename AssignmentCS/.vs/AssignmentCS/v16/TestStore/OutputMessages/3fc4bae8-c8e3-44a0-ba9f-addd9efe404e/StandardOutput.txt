@@ -1,0 +1,167 @@
+reading tokens = testTradersStr_TOKEN_1,1;testTradersStr_TOKEN_2,2;testTradersStr_TOKEN_3,3;testTradersStr_TOKEN_4,4
+reading highest id = 4
+reading StockHolderId = 1
+reading pre_reset_traders = 1,2,3,4
+The server was closed or killed while having connected clients, data will be restored.
+If the stock holder (1) does not return within 5 seconds, the stock will be released.
+RunServer failed start: Only one usage of each socket address (protocol/network address/port) is normally permitted
+RunServer failed start: Waiting 3 seconds and retrying...
+Retrying...
+RunServer failed start: Only one usage of each socket address (protocol/network address/port) is normally permitted
+RunServer failed start: Waiting 3 seconds and retrying...
+Adding trader with token = 'token'
+New connection; trader ID 5
+Sending to trader 23: 'connected 5'
+ClientForm.Receiver line = 'connected 5'
+New trader (5) joined.
+Sending to trader 22: 'connected 5'
+ClientForm.Receiver line = 'connected 5'
+New trader (5) joined.
+Sending to trader 24: 'connected 5'
+ClientForm.Receiver line = 'connected 5'
+New trader (5) joined.
+Sending to trader 25: 'connected 5'
+ClientForm.Receiver line = 'connected 5'
+New trader (5) joined.
+Sending to trader 5: '5;1;5'
+ensureConnection id_to_ignore = 5;1;5
+Sending to trader 26: 'connected 5'
+ClientForm.Receiver line = 'connected 5'
+New trader (5) joined.
+Sending to trader 27: 'connected 5'
+ClientForm.Receiver line = 'connected 5'
+New trader (5) joined.
+Sending to trader 5: 'givestock fail Wrong format used for 'givestock id''
+testInvalidGiveStockID 'givestock string_instead_of_number' response: 'givestock fail Wrong format used for 'givestock id''
+Retrying...
+RunServer failed start: Only one usage of each socket address (protocol/network address/port) is normally permitted
+RunServer failed start: Waiting 3 seconds and retrying...
+Adding trader with token = 'SEw681D+cke87oF4qcFNjA=='
+New connection; trader ID 6
+Sending to trader 23: 'connected 6'
+Sending to trader 22: 'connected 6'
+Sending to trader 24: 'connected 6'
+ClientForm.Receiver line = 'connected 6'
+New trader (6) joined.
+ClientForm.Receiver line = 'connected 6'
+New trader (6) joined.
+ClientForm.Receiver line = 'connected 6'
+New trader (6) joined.
+Sending to trader 25: 'connected 6'
+Sending to trader 5: 'connected 6'
+ClientForm.Receiver line = 'connected 6'
+New trader (6) joined.
+Sending to trader 27: 'connected 6'
+Sending to trader 26: 'connected 6'
+ClientForm.Receiver line = 'connected 6'
+New trader (6) joined.
+Sending to trader 6: '6;1;5,6'
+ClientForm.Receiver line = 'connected 6'
+New trader (6) joined.
+Connected
+Trader 5 attempted to give the stock to a not existing trader -1.
+testInvalidGiveStockID 'givestock -1' response: 'connected 6'
+Sending to trader 5: 'givestock fail Supplied trader id (-1) does not exist.'
+Retrying...
+RunServer failed start: Only one usage of each socket address (protocol/network address/port) is normally permitted
+RunServer failed start: Waiting 3 seconds and retrying...
+Retrying...
+RunServer failed start: Only one usage of each socket address (protocol/network address/port) is normally permitted
+RunServer failed start: Waiting 3 seconds and retrying...
+Adding trader with token = 'G80Nfn643U+KsVC+BBYoHg=='
+New connection; trader ID 7
+Sending to trader 22: 'connected 7'
+Sending to trader 23: 'connected 7'
+Sending to trader 24: 'connected 7'
+ClientForm.Receiver line = 'connected 7'
+ClientForm.Receiver line = 'connected 7'
+New trader (7) joined.
+New trader (7) joined.
+ClientForm.Receiver line = 'connected 7'
+New trader (7) joined.
+Sending to trader 25: 'connected 7'
+ClientForm.Receiver line = 'connected 7'
+New trader (7) joined.
+Sending to trader 5: 'connected 7'
+Sending to trader 27: 'connected 7'
+Sending to trader 6: 'connected 7'
+ClientForm.Receiver line = 'connected 7'
+ClientForm.Receiver line = 'connected 7'
+New trader (7) joined.
+New trader (7) joined.
+Sending to trader 26: 'connected 7'
+ClientForm.Receiver line = 'connected 7'
+New trader (7) joined.
+Sending to trader 7: '7;1;5,6,7'
+Connected
+testInvalidGiveStockID 'givestock ' response: 'givestock fail Supplied trader id (-1) does not exist.'
+Sending to trader 5: 'givestock fail Wrong format used for 'givestock id''
+Retrying...
+RunServer failed start: Only one usage of each socket address (protocol/network address/port) is normally permitted
+RunServer failed start: Waiting 3 seconds and retrying...
+Adding trader with token = 'nNCP15d+Kk2gBGEIcWO8RA=='
+New connection; trader ID 8
+Sending to trader 27: 'connected 8'
+Sending to trader 6: 'connected 8'
+Sending to trader 26: 'connected 8'
+ClientForm.Receiver line = 'connected 8'
+New trader (8) joined.
+ClientForm.Receiver line = 'connected 8'
+New trader (8) joined.
+ClientForm.Receiver line = 'connected 8'
+New trader (8) joined.
+Sending to trader 7: 'connected 8'
+ClientForm.Receiver line = 'connected 8'
+New trader (8) joined.
+Sending to trader 23: 'connected 8'
+Sending to trader 22: 'connected 8'
+Sending to trader 24: 'connected 8'
+ClientForm.Receiver line = 'connected 8'
+ClientForm.Receiver line = 'connected 8'
+New trader (8) joined.
+New trader (8) joined.
+ClientForm.Receiver line = 'connected 8'
+New trader (8) joined.
+Sending to trader 25: 'connected 8'
+Sending to trader 5: 'connected 8'
+ClientForm.Receiver line = 'connected 8'
+New trader (8) joined.
+Sending to trader 8: '8;1;5,6,7,8'
+Connected
+testInvalidGiveStockID 'givestock' response: 'connected 7'
+Sending to trader 5: 'givestock fail Wrong format used for 'givestock id''
+Retrying...
+RunServer failed start: Only one usage of each socket address (protocol/network address/port) is normally permitted
+RunServer failed start: Waiting 3 seconds and retrying...
+Adding trader with token = 'ffBCV9VwY06F8H5loxgGsg=='
+New connection; trader ID 9
+Sending to trader 24: 'connected 9'
+Sending to trader 23: 'connected 9'
+Sending to trader 22: 'connected 9'
+ClientForm.Receiver line = 'connected 9'
+New trader (9) joined.
+ClientForm.Receiver line = 'connected 9'
+New trader (9) joined.
+ClientForm.Receiver line = 'connected 9'
+New trader (9) joined.
+Sending to trader 25: 'connected 9'
+Sending to trader 5: 'connected 9'
+ClientForm.Receiver line = 'connected 9'
+New trader (9) joined.
+Sending to trader 8: 'connected 9'
+ClientForm.Receiver line = 'connected 9'
+New trader (9) joined.
+Retrying...
+RunServer failed start: Only one usage of each socket address (protocol/network address/port) is normally permitted
+RunServer failed start: Waiting 3 seconds and retrying...
+Sending to trader 26: 'connected 9'
+Sending to trader 6: 'connected 9'
+ClientForm.Receiver line = 'connected 9'
+New trader (9) joined.
+ClientForm.Receiver line = 'connected 9'
+New trader (9) joined.
+Sending to trader 27: 'connected 9'
+ClientForm.Receiver line = 'connected 9'
+New trader (9) joined.
+Sending to trader 9: '9;1;5,6,7,8,9'
+Connected

@@ -1,0 +1,162 @@
+reading tokens = 0Jj9xttXxEKj0IsZJpXNtg==,1;ipEsvp2PNE++Wap4Gr2WBw==,2;F1DDowLiy02lWiZcJjy0Uw==,3;9t4rz2GxoUyk/sjLIyTGEQ==,4;SxaYoNoo70mUlsq0xg3Bwg==,5;q5ZvX3TYSUiO+NNaT5FXjg==,6;+0PDks71gUiNQeAd9Lu9cg==,7;6fy6f7EDmU2QDAhpvHfVSQ==,8;ojn3EjLaZUOOBR+9Rpk7zw==,9;W1MlN+Af9ESLs0Vo5Sv1PA==,10;fwJ9Ua+Rfkanknh19YjjEQ==,11;5+PTmaeVoU275ZDMJoOQ9Q==,12;+uGY0du79E2TtUsmNw8DRA==,13;DivpnjBFXU2cmznl/qqoRQ==,14;Wd16x4X10UOwdRJ360xVSA==,15;u1/zq2ec5ke3PAIgi+F8oQ==,16;tZqSoPHsNkK0ZP5AeM80gg==,17;xltOhHA72kexKjEAgEA5Iw==,18;h6D4BQwnoEyStdzpQNDrow==,19
+reading highest id = 19
+reading StockHolderId = 15
+reading pre_reset_traders = 15,16,17,18,19
+The server was closed or killed while having connected clients, data will be restored.
+If the stock holder (15) does not return within 5 seconds, the stock will be released.
+RunServer failed start: Only one usage of each socket address (protocol/network address/port) is normally permitted
+RunServer failed start: Waiting 3 seconds and retrying...
+Connection.Reader exception: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+Connection.Reader exception: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+Connection.Reader exception: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+Connection.Reader exception: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+Connection.Reader exception: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+Trader 16 disconnected.
+Trader 19 disconnected.
+Trader 18 disconnected.
+Trader 17 disconnected.
+Trader 15 disconnected.
+Trader 15 was stock holder, the stock was given to trader 15.
+Retrying...
+Waiting for incoming connections...
+Adding trader with token = 'ARx6RHUcEEiJj7CO/nXfzQ=='
+Adding trader with token = 'GiCe4vkJoEOUW3wWUtpmAg=='
+New connection; trader ID 20
+New connection; trader ID 21
+Sending to trader 20: '20;15;20'
+Sending to trader 20: 'connected 21'
+Connected
+ClientForm.Receiver line = 'connected 21'
+New trader (21) joined.
+Sending to trader 21: '21;15;20,21'
+Connected
+Retrying...
+RunServer failed start: Only one usage of each socket address (protocol/network address/port) is normally permitted
+RunServer failed start: Waiting 3 seconds and retrying...
+Retrying...
+RunServer failed start: Only one usage of each socket address (protocol/network address/port) is normally permitted
+RunServer failed start: Waiting 3 seconds and retrying...
+Retrying...
+RunServer failed start: Only one usage of each socket address (protocol/network address/port) is normally permitted
+RunServer failed start: Waiting 3 seconds and retrying...
+Retrying...
+RunServer failed start: Only one usage of each socket address (protocol/network address/port) is normally permitted
+RunServer failed start: Waiting 3 seconds and retrying...
+Connection.Reader exception: Disconnected.
+Trader 20 disconnected.
+Trader 20 was stock holder, the stock was given to trader 21.
+Sending to trader 21: 'givestock left 20 21'
+ClientForm.Receiver line = 'givestock left 20 21'
+I received stock from trader 20 who left the server while holding stock.
+Sending to trader 21: 'disconnected 20'
+ClientForm.Receiver line = 'disconnected 20'
+Trader 20 left.
+Retrying...
+RunServer failed start: Only one usage of each socket address (protocol/network address/port) is normally permitted
+RunServer failed start: Waiting 3 seconds and retrying...
+Retrying...
+RunServer failed start: Only one usage of each socket address (protocol/network address/port) is normally permitted
+RunServer failed start: Waiting 3 seconds and retrying...
+Retrying...
+RunServer failed start: Only one usage of each socket address (protocol/network address/port) is normally permitted
+RunServer failed start: Waiting 3 seconds and retrying...
+Connection.Reader exception: Disconnected.
+Trader 21 disconnected.
+Trader 21 was stock holder, he was the only trader, so the stock will be given to the first new trader.
+Retrying...
+RunServer failed start: Only one usage of each socket address (protocol/network address/port) is normally permitted
+RunServer failed start: Waiting 3 seconds and retrying...
+Adding trader with token = 'jsOMvuUJWU282wGCOXQa3w=='
+New connection; trader ID 22
+Sending to trader 22: '22;22;22'
+Connected
+Retrying...
+RunServer failed start: Only one usage of each socket address (protocol/network address/port) is normally permitted
+RunServer failed start: Waiting 3 seconds and retrying...
+Adding trader with token = 'HVHSEH27y0ii5TUzWuqrog=='
+Adding trader with token = 'I/2ko+c6A0m3OzJGULEHvQ=='
+Adding trader with token = 'e/iSoiHPzkmj+UCGHz2tMA=='
+Adding trader with token = '11UjCPIHcEiBJwaVnGLnSg=='
+Adding trader with token = 'o5mUfB5LqUS2fAF1vJndQg=='
+New connection; trader ID 23
+New connection; trader ID 24
+Sending to trader 22: 'connected 23'
+ClientForm.Receiver line = 'connected 23'
+Sending to trader 22: 'connected 24'
+New trader (23) joined.
+ClientForm.Receiver line = 'connected 24'
+New trader (24) joined.
+New connection; trader ID 25
+Sending to trader 23: '23;22;22,23'
+Connected
+Sending to trader 23: 'connected 24'
+Sending to trader 23: 'connected 25'
+ClientForm.Receiver line = 'connected 24'
+New trader (24) joined.
+ClientForm.Receiver line = 'connected 25'
+New trader (25) joined.
+Sending to trader 24: '24;22;22,23,24'
+Connected
+Sending to trader 24: 'connected 25'
+ClientForm.Receiver line = 'connected 25'
+New trader (25) joined.
+Sending to trader 25: '25;22;22,23,24,25'
+Connected
+New connection; trader ID 26
+Sending to trader 26: '26;22;22,23,24,25,26'
+Connected
+New connection; trader ID 27
+Sending to trader 27: '27;22;22,23,24,25,26,27'
+Connected
+Trader 22 gave trader 27 the stock.
+Sending to trader 22: 'connected 25'
+ClientForm.Receiver line = 'connected 25'
+New trader (25) joined.
+Sending to trader 22: 'connected 26'
+ClientForm.Receiver line = 'connected 26'
+New trader (26) joined.
+Sending to trader 22: 'connected 27'
+ClientForm.Receiver line = 'connected 27'
+New trader (27) joined.
+Sending to trader 22: 'givestock success 22 27'
+ClientForm.Receiver line = 'givestock success 22 27'
+Trader 27 received stock from me.
+Sending to trader 23: 'connected 26'
+ClientForm.Receiver line = 'connected 26'
+Sending to trader 23: 'connected 27'
+New trader (26) joined.
+ClientForm.Receiver line = 'connected 27'
+New trader (27) joined.
+Sending to trader 23: 'givestock success 22 27'
+ClientForm.Receiver line = 'givestock success 22 27'
+Trader 27 received stock from trader 22.
+Sending to trader 24: 'connected 26'
+ClientForm.Receiver line = 'connected 26'
+New trader (26) joined.
+Sending to trader 24: 'connected 27'
+ClientForm.Receiver line = 'connected 27'
+New trader (27) joined.
+Sending to trader 24: 'givestock success 22 27'
+ClientForm.Receiver line = 'givestock success 22 27'
+Trader 27 received stock from trader 22.
+Sending to trader 25: 'connected 26'
+ClientForm.Receiver line = 'connected 26'
+Sending to trader 25: 'connected 27'
+New trader (26) joined.
+ClientForm.Receiver line = 'connected 27'
+New trader (27) joined.
+Sending to trader 25: 'givestock success 22 27'
+ClientForm.Receiver line = 'givestock success 22 27'
+Trader 27 received stock from trader 22.
+Sending to trader 26: 'connected 27'
+Sending to trader 26: 'givestock success 22 27'
+ClientForm.Receiver line = 'connected 27'
+New trader (27) joined.
+ClientForm.Receiver line = 'givestock success 22 27'
+Trader 27 received stock from trader 22.
+Sending to trader 27: 'givestock success 22 27'
+ClientForm.Receiver line = 'givestock success 22 27'
+I received stock from trader 22.
+Retrying...
+RunServer failed start: Only one usage of each socket address (protocol/network address/port) is normally permitted
+RunServer failed start: Waiting 3 seconds and retrying...
